@@ -1,0 +1,1 @@
+chrome-extension://dicgkflojhbopmagcacdklcpdfdcnhko/translate_content.js

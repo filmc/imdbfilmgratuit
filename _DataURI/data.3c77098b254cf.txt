@@ -1,0 +1,1 @@
+chrome-extension://dicgkflojhbopmagcacdklcpdfdcnhko/pdf_content.js

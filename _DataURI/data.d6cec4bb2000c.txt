@@ -1,0 +1,1 @@
+chrome-extension://gngocbkfmikdgphklgmmehbjjlfgdemm/browser-api-content.js
